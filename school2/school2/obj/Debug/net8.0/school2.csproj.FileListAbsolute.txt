@@ -1,0 +1,14 @@
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\school2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\school2.AssemblyInfoInputs.cache
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\school2.AssemblyInfo.cs
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\school2.csproj.CoreCompileInputs.cache
+D:\Avans\Code\c--projects\school2\school2\bin\Debug\net8.0\school2.exe
+D:\Avans\Code\c--projects\school2\school2\bin\Debug\net8.0\school2.deps.json
+D:\Avans\Code\c--projects\school2\school2\bin\Debug\net8.0\school2.runtimeconfig.json
+D:\Avans\Code\c--projects\school2\school2\bin\Debug\net8.0\school2.dll
+D:\Avans\Code\c--projects\school2\school2\bin\Debug\net8.0\school2.pdb
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\school2.dll
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\refint\school2.dll
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\school2.pdb
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\school2.genruntimeconfig.cache
+D:\Avans\Code\c--projects\school2\school2\obj\Debug\net8.0\ref\school2.dll
