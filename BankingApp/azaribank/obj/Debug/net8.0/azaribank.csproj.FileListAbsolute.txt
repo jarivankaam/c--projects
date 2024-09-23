@@ -12,3 +12,4 @@ D:\Avans\Code\c--projects\BankingApp\azaribank\obj\Debug\net8.0\refint\azaribank
 D:\Avans\Code\c--projects\BankingApp\azaribank\obj\Debug\net8.0\azaribank.pdb
 D:\Avans\Code\c--projects\BankingApp\azaribank\obj\Debug\net8.0\azaribank.genruntimeconfig.cache
 D:\Avans\Code\c--projects\BankingApp\azaribank\obj\Debug\net8.0\ref\azaribank.dll
+D:\Avans\Code\c--projects\BankingApp\azaribank\obj\Debug\net8.0\azaribank.sourcelink.json

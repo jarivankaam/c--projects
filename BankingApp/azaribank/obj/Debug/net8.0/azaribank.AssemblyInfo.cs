@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azaribank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72679fd252a17dbfc953104f652342c794fc4b24")]
 [assembly: System.Reflection.AssemblyProductAttribute("azaribank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azaribank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
